@@ -1,4 +1,3 @@
-import { StyleSheet, Text, View } from "react-native";
 import Calculator from "./src/containers/Calculator/Calculator";
 import store from "./src/app/store/store";
 import { Provider } from "react-redux";

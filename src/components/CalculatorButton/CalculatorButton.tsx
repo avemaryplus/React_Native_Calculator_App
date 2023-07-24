@@ -2,7 +2,6 @@ import {
   TouchableOpacity,
   Text,
   StyleSheet,
-  GestureResponderEvent,
 } from "react-native";
 
 type Props = {
